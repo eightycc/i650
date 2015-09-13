@@ -1,0 +1,38 @@
+[*]
+[*] GTKWave Analyzer v3.3.64 (w)1999-2014 BSI
+[*] Mon Aug 24 22:19:30 2015
+[*]
+[dumpfile] "/Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/estst1.lxt"
+[dumpfile_mtime] "Mon Aug 24 22:12:46 2015"
+[dumpfile_size] 19223
+[savefile] "/Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/estst1.gtkw"
+[timestart] 0
+[size] 1676 1005
+[pos] -1 -1
+*-10.000000 3164 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 193
+[signals_width] 227
+[sst_expanded] 1
+[sst_vpaned_height] 311
+@28
+clock_phase[1:0]
+@22
+time/digit_num[7:0]
+@28
+oc/busy[0]
+@22
+oc/current_state[7:0]
+@28
+es/err_sense_on[0]
+@29
+es/err_sense_restart[0]
+@28
+es/err_stop[0]
+es/restart_reset[0]
+es/turn_off_run[0]
+@22
+es/reset_state[7:0]
+@28
+estst/clock_error[0]
+[pattern_trace] 1
+[pattern_trace] 0

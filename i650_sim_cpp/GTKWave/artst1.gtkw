@@ -1,0 +1,60 @@
+[*]
+[*] GTKWave Analyzer v3.3.64 (w)1999-2014 BSI
+[*] Sat Aug 22 16:15:42 2015
+[*]
+[dumpfile] "/Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/artst1.lxt"
+[dumpfile_mtime] "Sat Aug 22 16:14:30 2015"
+[dumpfile_size] 5200
+[savefile] "/Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/artst1.gtkw"
+[timestart] 0
+[size] 1676 1005
+[pos] -1 -1
+*-8.000000 0 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 193
+[signals_width] 246
+[sst_expanded] 1
+[sst_vpaned_height] 301
+@24
+time/digit_num[7:0]
+@28
+time/lower_word[0]
+@24
+time/word_num[7:0]
+time/sector_num[7:0]
+@28
+oc/error_reset[0]
+artest/restart_a[0]
+artest/ri_pgm_step[0]
+artest/tlu_band_chg[0]
+oc/set_8000[0]
+oc/reset_0000[0]
+oc/xfer_key[0]
+@2023
+^1 /private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/biq_filter
+oc/addr_th[6:0]
+^1 /private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/biq_filter
+oc/addr_h[6:0]
+^1 /private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/biq_filter
+oc/addr_t[6:0]
+^1 /private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/biq_filter
+oc/addr_u[6:0]
+^1 /private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/biq_filter
+ar/addr_th[6:0]
+^1 /private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/biq_filter
+ar/addr_h[6:0]
+^1 /private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/biq_filter
+ar/addr_t[6:0]
+^1 /private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/biq_filter
+ar/addr_u[6:0]
+@28
+ar/addr_no_800x[0]
+ar/addr_8000[0]
+ar/addr_8001[0]
+ar/addr_8002[0]
+@24
+ar/addr_8002_3[0]
+@28
+ar/addr_8003[0]
+ar/addr_invalid[0]
+[pattern_trace] 1
+[pattern_trace] 0

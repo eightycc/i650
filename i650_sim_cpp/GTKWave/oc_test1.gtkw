@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.64 (w)1999-2014 BSI
+[*] Tue Aug 11 17:30:48 2015
+[*]
+[dumpfile] "/Users/rabeles/Development/test3.lxt"
+[dumpfile_mtime] "Tue Aug 11 17:25:27 2015"
+[dumpfile_size] 12124
+[savefile] "/Users/rabeles/Development/oc_test1.gtkw"
+[timestart] 0
+[size] 1642 600
+[pos] -1 -1
+*-5.000000 954 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 193
+[signals_width] 236
+[sst_expanded] 1
+[sst_vpaned_height] 168
+@2028
+^1 /private/var/tmp/../../../Users/rabeles/Development/../../../private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/phase_filter
+clock_phase[1:0]
+@24
+time/digit_num[11:0]
+time/word_num[11:0]
+time/sector_num[11:0]
+@2022
+^2 /private/var/tmp/../../../Users/rabeles/Development/../../../private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/biq_filter
+gs/gen_store_out[6:0]
+^2 /private/var/tmp/../../../Users/rabeles/Development/../../../private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/biq_filter
+acc/ontime_out[6:0]
+^2 /private/var/tmp/../../../Users/rabeles/Development/../../../private/var/tmp/../../../Users/rabeles/Development/i650_sim_cpp/i650_sim_cpp/GTKWave/biq_filter
+acc/ped_out[6:0]
+@28
+ar/addr_hit[0]
+@22
+oc/current_state[11:0]
+oc/next_state[11:0]
+oc/current_command[11:0]
+oc/next_command[11:0]
+@29
+oc/busy[0]
+@28
+oc/pgm_reset[0]
+oc/acc_reset[0]
+oc/error_reset[0]
+oc/err_sense_reset[0]
+[pattern_trace] 1
+[pattern_trace] 0
